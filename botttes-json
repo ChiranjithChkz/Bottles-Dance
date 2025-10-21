@@ -1,0 +1,48 @@
+
+[
+  {
+    "id": 1,
+    "brand": "AquaNova",
+    "capacity": 750,
+    "material": "stainless steel",
+    "price": 24.99,
+    "type": "both",
+    "image": "https://images.unsplash.com/photos/a-stainless-steel-water-bottle-sitting-on-top-of-a-pile-of-snow-Wqlqs8gkcFo"
+  },
+  {
+    "id": 2,
+    "brand": "PureSip",
+    "capacity": 500,
+    "material": "plastic",
+    "price": 9.49,
+    "type": "cold",
+    "image": "https://images.unsplash.com/photos/sample-placeholder-2" 
+  },
+  {
+    "id": 3,
+    "brand": "GlacierPeak",
+    "capacity": 1000,
+    "material": "stainless steel",
+    "price": 34.0,
+    "type": "both",
+    "image": "https://images.unsplash.com/photos/a-stainless-steel-water-bottle-sitting-on-top-of-a-wooden-fence-axMEtSm42iQ"
+  },
+  {
+    "id": 4,
+    "brand": "EcoFlow",
+    "capacity": 600,
+    "material": "glass",
+    "price": 18.75,
+    "type": "cold",
+    "image": "https://images.unsplash.com/photos/person-in-blue-denim-jacket-holding-stainless-steel-bottle-4Kd3svPFuEI"
+  },
+  {
+    "id": 5,
+    "brand": "HydroLite",
+    "capacity": 400,
+    "material": "aluminum",
+    "price": 12.5,
+    "type": "cold",
+    "image": "https://images.unsplash.com/photos/person-holding-stainless-steel-bottle-_r09EbAUhZU"
+  }
+]
